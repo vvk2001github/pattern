@@ -1,0 +1,16 @@
+{
+    "name": "kulyaginv/patterns",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kulyaginv\\Patterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kulyaginv",
+            "email": "kulyaginv@gmail.com"
+        }
+    ],
+    "require": {}
+}
